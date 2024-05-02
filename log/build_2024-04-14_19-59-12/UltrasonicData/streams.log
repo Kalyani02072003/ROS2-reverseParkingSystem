@@ -1,0 +1,22 @@
+[0.011s] Invoking command in '/home/kalyani/ros2_arduino/build/UltrasonicData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kalyani/ros2_arduino/build/UltrasonicData -- -j4 -l4
+[0.051s] Invoked command in '/home/kalyani/ros2_arduino/build/UltrasonicData' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kalyani/ros2_arduino/build/UltrasonicData -- -j4 -l4
+[0.078s] Invoking command in '/home/kalyani/ros2_arduino/build/UltrasonicData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kalyani/ros2_arduino/build/UltrasonicData
+[0.086s] -- Install configuration: ""
+[0.086s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/lib/UltrasonicData/sensornode.py
+[0.086s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/lib/UltrasonicData/carparking.py
+[0.086s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/ament_index/resource_index/package_run_dependencies/UltrasonicData
+[0.086s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/ament_index/resource_index/parent_prefix_path/UltrasonicData
+[0.086s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/environment/ament_prefix_path.sh
+[0.086s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/environment/ament_prefix_path.dsv
+[0.086s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/environment/path.sh
+[0.086s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/environment/path.dsv
+[0.087s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/local_setup.bash
+[0.087s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/local_setup.sh
+[0.087s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/local_setup.zsh
+[0.087s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/local_setup.dsv
+[0.087s] -- Installing: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/package.dsv
+[0.087s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/ament_index/resource_index/packages/UltrasonicData
+[0.087s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/cmake/UltrasonicDataConfig.cmake
+[0.087s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/cmake/UltrasonicDataConfig-version.cmake
+[0.087s] -- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/share/UltrasonicData/package.xml
+[0.088s] Invoked command in '/home/kalyani/ros2_arduino/build/UltrasonicData' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kalyani/ros2_arduino/build/UltrasonicData

@@ -1,0 +1,5 @@
+[0.012s] Invoking command in '/home/kalyani/ros2_arduino/build/UltrasonicData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kalyani/ros2_arduino/build/UltrasonicData -- -j4 -l4
+[0.027s] [0mCMake Error: The source directory "/home/kalyani/ros2_arduino/src/UltrasonicData" does not exist.
+[0.028s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.029s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.032s] Invoked command in '/home/kalyani/ros2_arduino/build/UltrasonicData' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kalyani/ros2_arduino/build/UltrasonicData -- -j4 -l4

@@ -1,0 +1,15 @@
+[0.011s] Invoking command in '/home/kalyani/ros2_arduino/build/UltrasonicData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kalyani/ros2_arduino/build/UltrasonicData -- -j4 -l4
+[0.032s] [31mCMake Error at CMakeLists.txt:15 (find_package):
+[0.033s]   find_package called with invalid argument "Python3"
+[0.033s] 
+[0.033s] [0m
+[0.033s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.220s] WARNING: Package name "UltrasonicData" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[0.237s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.238s] -- Added test 'lint_cmake' to check CMake code style
+[0.238s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.239s] -- Added test 'xmllint' to check XML markup files
+[0.240s] -- Configuring incomplete, errors occurred!
+[0.240s] See also "/home/kalyani/ros2_arduino/build/UltrasonicData/CMakeFiles/CMakeOutput.log".
+[0.242s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.244s] Invoked command in '/home/kalyani/ros2_arduino/build/UltrasonicData' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kalyani/ros2_arduino/build/UltrasonicData -- -j4 -l4

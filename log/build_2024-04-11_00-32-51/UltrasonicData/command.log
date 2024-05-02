@@ -1,0 +1,4 @@
+Invoking command in '/home/kalyani/ros2_arduino/build/UltrasonicData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kalyani/ros2_arduino/build/UltrasonicData -- -j4 -l4
+Invoked command in '/home/kalyani/ros2_arduino/build/UltrasonicData' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kalyani/ros2_arduino/build/UltrasonicData -- -j4 -l4
+Invoking command in '/home/kalyani/ros2_arduino/build/UltrasonicData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kalyani/ros2_arduino/build/UltrasonicData
+Invoked command in '/home/kalyani/ros2_arduino/build/UltrasonicData' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kalyani/ros2_arduino/build/UltrasonicData

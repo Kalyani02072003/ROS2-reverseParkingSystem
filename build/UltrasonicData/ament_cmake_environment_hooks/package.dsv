@@ -1,0 +1,4 @@
+source;share/UltrasonicData/local_setup.bash
+source;share/UltrasonicData/local_setup.dsv
+source;share/UltrasonicData/local_setup.sh
+source;share/UltrasonicData/local_setup.zsh

@@ -1,0 +1,8 @@
+-- Install configuration: ""
+-- Up-to-date: /home/kalyani/ros2_arduino/install/UltrasonicData/lib/UltrasonicData/sensornode.py
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/kalyani/ros2_arduino/src/UltrasonicData/carparking.py": No such file
+  or directory.
+
+[0m

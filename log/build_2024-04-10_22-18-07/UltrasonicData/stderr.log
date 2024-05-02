@@ -1,0 +1,6 @@
+[31mCMake Error at CMakeLists.txt:15 (find_package):
+  find_package called with invalid argument "Python3"
+
+[0m
+WARNING: Package name "UltrasonicData" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1

@@ -1,0 +1,8 @@
+source;share/UltrasonicData/hook/cmake_prefix_path.ps1
+source;share/UltrasonicData/hook/cmake_prefix_path.dsv
+source;share/UltrasonicData/hook/cmake_prefix_path.sh
+source;share/UltrasonicData/local_setup.bash
+source;share/UltrasonicData/local_setup.dsv
+source;share/UltrasonicData/local_setup.ps1
+source;share/UltrasonicData/local_setup.sh
+source;share/UltrasonicData/local_setup.zsh
