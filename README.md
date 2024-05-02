@@ -10,6 +10,31 @@ The system consists of two main components:
 
 2. **Serial Client (ROS 2 Node)**: This component is a ROS 2 node that subscribes to the sensor data published by the Serial Server. It processes the sensor data and provides feedback on the parking status.
 
+## ROS2 Setup 
+1. Install ROS 2 and required dependencies:
+
+2. Set up ROS 2 workspace:
+    ```
+    mkdir -p ~/ros2_ws/src
+    cd ~/ros2_ws/src
+    ```
+
+3. Clone the project repository into the `src` directory:
+    ```
+    git clone https://github.com/Kalyani02072003/ROS2-reverseParkingSystem.git
+    ```
+
+4. Build the workspace:
+    ```
+    cd ~/ros2_ws
+    colcon build
+    ```
+
+5. Source the workspace:
+    ```
+    source ~/ros2_ws/install/setup.bash
+    ```
+
 ## Usage
 
 1. Connect the Arduino board with the ultrasonic and IR sensors.
